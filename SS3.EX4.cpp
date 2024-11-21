@@ -9,8 +9,8 @@ int main(){
 	scanf("%f", &Anh);
 	Tong = Toan+Van+Anh;
 	TBC = Tong/3;
-	printf("Tong diem ba mon la: %.1f\n", Tong);
-	printf("Trung binh cong ba mon la: %.1f\n", TBC);
+	printf("Tong diem ba mon la: %.2f\n", Tong);
+	printf("Trung binh cong ba mon la: %.2f\n", TBC);
 	
 	return 0;
 
